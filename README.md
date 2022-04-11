@@ -1,2 +1,2 @@
 # projet_IF37
-Projet en collaboration avec Théo LE VOT, Mathieu LE TREUST et Yann DAUVE
+Projet en binome: Théo LE VOT et Mathieu LE TREUST
